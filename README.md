@@ -33,4 +33,4 @@ Jupyter Notebook (optional, aber für interaktives Lernen empfohlen)
 Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die LICENSE-Datei für Details.
 
 # Klonen:
-https://github.com/Haytin/machine_learning_ger.git
+https://github.com/Haytin/Maschinelles-Lernen.git
